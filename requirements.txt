@@ -1,0 +1,7 @@
+Libraries required for this app:
+1. text
+2. streamlit
+3. newspaper3k
+4. transformers
+5. torch
+6. textblob
